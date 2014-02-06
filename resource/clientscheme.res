@@ -31,14 +31,14 @@ Scheme
 		
 		"OmpHP"				"255 255 255 255"
 		"OmpHPBuff"			"125 225 30 255"
-		"OmpHPLow"			"255 200 30 255"
+		"OmpHPLow"			"255 255 255 255"
 		"OmpSpecHP"			"255 255 255 255"
 		"OmpSpecHPBuff"		"125 225 30 255"
-		"OmpSpecHPLow"		"255 200 30 255"
+		"OmpSpecHPLow"		"255 30 30 255"
 		
-		"OmpAmmoClip"		"30 225 225 255"
-		"OmpAmmoReserve"	"255 30 255 255"
-		"OmpAmmoMetal"		"125 225 30 255"
+		"OmpAmmoClip"		"255 255 255 255"
+		"OmpAmmoReserve"	"255 255 255 255"
+		"OmpAmmoMetal"		"255 255 255 255"
 		"OmpDemoPipes"		"255 255 255 255"
 
 		"OmpAmmoClipLow1"	"255 30 30 255"
